@@ -1,0 +1,13 @@
+C:\Users\joaoclavilho\Desktop\repos\ExercicioComposicao\ExercicioComposicao\bin\Debug\netcoreapp3.1\ExercicioComposicao.exe
+C:\Users\joaoclavilho\Desktop\repos\ExercicioComposicao\ExercicioComposicao\bin\Debug\netcoreapp3.1\ExercicioComposicao.deps.json
+C:\Users\joaoclavilho\Desktop\repos\ExercicioComposicao\ExercicioComposicao\bin\Debug\netcoreapp3.1\ExercicioComposicao.runtimeconfig.json
+C:\Users\joaoclavilho\Desktop\repos\ExercicioComposicao\ExercicioComposicao\bin\Debug\netcoreapp3.1\ExercicioComposicao.runtimeconfig.dev.json
+C:\Users\joaoclavilho\Desktop\repos\ExercicioComposicao\ExercicioComposicao\bin\Debug\netcoreapp3.1\ExercicioComposicao.dll
+C:\Users\joaoclavilho\Desktop\repos\ExercicioComposicao\ExercicioComposicao\bin\Debug\netcoreapp3.1\ExercicioComposicao.pdb
+C:\Users\joaoclavilho\Desktop\repos\ExercicioComposicao\ExercicioComposicao\obj\Debug\netcoreapp3.1\ExercicioComposicao.csproj.AssemblyReference.cache
+C:\Users\joaoclavilho\Desktop\repos\ExercicioComposicao\ExercicioComposicao\obj\Debug\netcoreapp3.1\ExercicioComposicao.AssemblyInfoInputs.cache
+C:\Users\joaoclavilho\Desktop\repos\ExercicioComposicao\ExercicioComposicao\obj\Debug\netcoreapp3.1\ExercicioComposicao.AssemblyInfo.cs
+C:\Users\joaoclavilho\Desktop\repos\ExercicioComposicao\ExercicioComposicao\obj\Debug\netcoreapp3.1\ExercicioComposicao.csproj.CoreCompileInputs.cache
+C:\Users\joaoclavilho\Desktop\repos\ExercicioComposicao\ExercicioComposicao\obj\Debug\netcoreapp3.1\ExercicioComposicao.dll
+C:\Users\joaoclavilho\Desktop\repos\ExercicioComposicao\ExercicioComposicao\obj\Debug\netcoreapp3.1\ExercicioComposicao.pdb
+C:\Users\joaoclavilho\Desktop\repos\ExercicioComposicao\ExercicioComposicao\obj\Debug\netcoreapp3.1\ExercicioComposicao.genruntimeconfig.cache

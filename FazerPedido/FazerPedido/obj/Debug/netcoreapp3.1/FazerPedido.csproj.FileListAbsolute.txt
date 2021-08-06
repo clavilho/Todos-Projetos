@@ -1,0 +1,13 @@
+C:\Users\joaoclavilho\Desktop\repos\FazerPedido\FazerPedido\bin\Debug\netcoreapp3.1\FazerPedido.exe
+C:\Users\joaoclavilho\Desktop\repos\FazerPedido\FazerPedido\bin\Debug\netcoreapp3.1\FazerPedido.deps.json
+C:\Users\joaoclavilho\Desktop\repos\FazerPedido\FazerPedido\bin\Debug\netcoreapp3.1\FazerPedido.runtimeconfig.json
+C:\Users\joaoclavilho\Desktop\repos\FazerPedido\FazerPedido\bin\Debug\netcoreapp3.1\FazerPedido.runtimeconfig.dev.json
+C:\Users\joaoclavilho\Desktop\repos\FazerPedido\FazerPedido\bin\Debug\netcoreapp3.1\FazerPedido.dll
+C:\Users\joaoclavilho\Desktop\repos\FazerPedido\FazerPedido\bin\Debug\netcoreapp3.1\FazerPedido.pdb
+C:\Users\joaoclavilho\Desktop\repos\FazerPedido\FazerPedido\obj\Debug\netcoreapp3.1\FazerPedido.csproj.AssemblyReference.cache
+C:\Users\joaoclavilho\Desktop\repos\FazerPedido\FazerPedido\obj\Debug\netcoreapp3.1\FazerPedido.AssemblyInfoInputs.cache
+C:\Users\joaoclavilho\Desktop\repos\FazerPedido\FazerPedido\obj\Debug\netcoreapp3.1\FazerPedido.AssemblyInfo.cs
+C:\Users\joaoclavilho\Desktop\repos\FazerPedido\FazerPedido\obj\Debug\netcoreapp3.1\FazerPedido.csproj.CoreCompileInputs.cache
+C:\Users\joaoclavilho\Desktop\repos\FazerPedido\FazerPedido\obj\Debug\netcoreapp3.1\FazerPedido.dll
+C:\Users\joaoclavilho\Desktop\repos\FazerPedido\FazerPedido\obj\Debug\netcoreapp3.1\FazerPedido.pdb
+C:\Users\joaoclavilho\Desktop\repos\FazerPedido\FazerPedido\obj\Debug\netcoreapp3.1\FazerPedido.genruntimeconfig.cache

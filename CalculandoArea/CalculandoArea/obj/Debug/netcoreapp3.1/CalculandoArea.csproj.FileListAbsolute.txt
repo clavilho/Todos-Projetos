@@ -1,0 +1,13 @@
+C:\Users\joaoclavilho\Desktop\repos\CalculandoArea\CalculandoArea\bin\Debug\netcoreapp3.1\CalculandoArea.exe
+C:\Users\joaoclavilho\Desktop\repos\CalculandoArea\CalculandoArea\bin\Debug\netcoreapp3.1\CalculandoArea.deps.json
+C:\Users\joaoclavilho\Desktop\repos\CalculandoArea\CalculandoArea\bin\Debug\netcoreapp3.1\CalculandoArea.runtimeconfig.json
+C:\Users\joaoclavilho\Desktop\repos\CalculandoArea\CalculandoArea\bin\Debug\netcoreapp3.1\CalculandoArea.runtimeconfig.dev.json
+C:\Users\joaoclavilho\Desktop\repos\CalculandoArea\CalculandoArea\bin\Debug\netcoreapp3.1\CalculandoArea.dll
+C:\Users\joaoclavilho\Desktop\repos\CalculandoArea\CalculandoArea\bin\Debug\netcoreapp3.1\CalculandoArea.pdb
+C:\Users\joaoclavilho\Desktop\repos\CalculandoArea\CalculandoArea\obj\Debug\netcoreapp3.1\CalculandoArea.csproj.AssemblyReference.cache
+C:\Users\joaoclavilho\Desktop\repos\CalculandoArea\CalculandoArea\obj\Debug\netcoreapp3.1\CalculandoArea.AssemblyInfoInputs.cache
+C:\Users\joaoclavilho\Desktop\repos\CalculandoArea\CalculandoArea\obj\Debug\netcoreapp3.1\CalculandoArea.AssemblyInfo.cs
+C:\Users\joaoclavilho\Desktop\repos\CalculandoArea\CalculandoArea\obj\Debug\netcoreapp3.1\CalculandoArea.csproj.CoreCompileInputs.cache
+C:\Users\joaoclavilho\Desktop\repos\CalculandoArea\CalculandoArea\obj\Debug\netcoreapp3.1\CalculandoArea.dll
+C:\Users\joaoclavilho\Desktop\repos\CalculandoArea\CalculandoArea\obj\Debug\netcoreapp3.1\CalculandoArea.pdb
+C:\Users\joaoclavilho\Desktop\repos\CalculandoArea\CalculandoArea\obj\Debug\netcoreapp3.1\CalculandoArea.genruntimeconfig.cache

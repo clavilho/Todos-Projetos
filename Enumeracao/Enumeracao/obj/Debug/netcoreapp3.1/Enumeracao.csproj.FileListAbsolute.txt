@@ -1,0 +1,13 @@
+C:\Users\joaoclavilho\Desktop\repos\Enumeracao\Enumeracao\obj\Debug\netcoreapp3.1\Enumeracao.csproj.AssemblyReference.cache
+C:\Users\joaoclavilho\Desktop\repos\Enumeracao\Enumeracao\obj\Debug\netcoreapp3.1\Enumeracao.AssemblyInfoInputs.cache
+C:\Users\joaoclavilho\Desktop\repos\Enumeracao\Enumeracao\obj\Debug\netcoreapp3.1\Enumeracao.AssemblyInfo.cs
+C:\Users\joaoclavilho\Desktop\repos\Enumeracao\Enumeracao\obj\Debug\netcoreapp3.1\Enumeracao.csproj.CoreCompileInputs.cache
+C:\Users\joaoclavilho\Desktop\repos\Enumeracao\Enumeracao\bin\Debug\netcoreapp3.1\Enumeracao.exe
+C:\Users\joaoclavilho\Desktop\repos\Enumeracao\Enumeracao\bin\Debug\netcoreapp3.1\Enumeracao.deps.json
+C:\Users\joaoclavilho\Desktop\repos\Enumeracao\Enumeracao\bin\Debug\netcoreapp3.1\Enumeracao.runtimeconfig.json
+C:\Users\joaoclavilho\Desktop\repos\Enumeracao\Enumeracao\bin\Debug\netcoreapp3.1\Enumeracao.runtimeconfig.dev.json
+C:\Users\joaoclavilho\Desktop\repos\Enumeracao\Enumeracao\bin\Debug\netcoreapp3.1\Enumeracao.dll
+C:\Users\joaoclavilho\Desktop\repos\Enumeracao\Enumeracao\bin\Debug\netcoreapp3.1\Enumeracao.pdb
+C:\Users\joaoclavilho\Desktop\repos\Enumeracao\Enumeracao\obj\Debug\netcoreapp3.1\Enumeracao.dll
+C:\Users\joaoclavilho\Desktop\repos\Enumeracao\Enumeracao\obj\Debug\netcoreapp3.1\Enumeracao.pdb
+C:\Users\joaoclavilho\Desktop\repos\Enumeracao\Enumeracao\obj\Debug\netcoreapp3.1\Enumeracao.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\joaoclavilho\Desktop\repos\Retangulo\Retangulo\bin\Debug\netcoreapp3.1\Retangulo.exe
+C:\Users\joaoclavilho\Desktop\repos\Retangulo\Retangulo\bin\Debug\netcoreapp3.1\Retangulo.deps.json
+C:\Users\joaoclavilho\Desktop\repos\Retangulo\Retangulo\bin\Debug\netcoreapp3.1\Retangulo.runtimeconfig.json
+C:\Users\joaoclavilho\Desktop\repos\Retangulo\Retangulo\bin\Debug\netcoreapp3.1\Retangulo.runtimeconfig.dev.json
+C:\Users\joaoclavilho\Desktop\repos\Retangulo\Retangulo\bin\Debug\netcoreapp3.1\Retangulo.dll
+C:\Users\joaoclavilho\Desktop\repos\Retangulo\Retangulo\bin\Debug\netcoreapp3.1\Retangulo.pdb
+C:\Users\joaoclavilho\Desktop\repos\Retangulo\Retangulo\obj\Debug\netcoreapp3.1\Retangulo.csproj.AssemblyReference.cache
+C:\Users\joaoclavilho\Desktop\repos\Retangulo\Retangulo\obj\Debug\netcoreapp3.1\Retangulo.AssemblyInfoInputs.cache
+C:\Users\joaoclavilho\Desktop\repos\Retangulo\Retangulo\obj\Debug\netcoreapp3.1\Retangulo.AssemblyInfo.cs
+C:\Users\joaoclavilho\Desktop\repos\Retangulo\Retangulo\obj\Debug\netcoreapp3.1\Retangulo.csproj.CoreCompileInputs.cache
+C:\Users\joaoclavilho\Desktop\repos\Retangulo\Retangulo\obj\Debug\netcoreapp3.1\Retangulo.dll
+C:\Users\joaoclavilho\Desktop\repos\Retangulo\Retangulo\obj\Debug\netcoreapp3.1\Retangulo.pdb
+C:\Users\joaoclavilho\Desktop\repos\Retangulo\Retangulo\obj\Debug\netcoreapp3.1\Retangulo.genruntimeconfig.cache

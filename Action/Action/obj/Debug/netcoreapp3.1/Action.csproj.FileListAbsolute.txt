@@ -1,0 +1,13 @@
+C:\Users\joaoclavilho\Desktop\repos\Action\Action\bin\Debug\netcoreapp3.1\Action.exe
+C:\Users\joaoclavilho\Desktop\repos\Action\Action\bin\Debug\netcoreapp3.1\Action.deps.json
+C:\Users\joaoclavilho\Desktop\repos\Action\Action\bin\Debug\netcoreapp3.1\Action.runtimeconfig.json
+C:\Users\joaoclavilho\Desktop\repos\Action\Action\bin\Debug\netcoreapp3.1\Action.runtimeconfig.dev.json
+C:\Users\joaoclavilho\Desktop\repos\Action\Action\bin\Debug\netcoreapp3.1\Action.dll
+C:\Users\joaoclavilho\Desktop\repos\Action\Action\bin\Debug\netcoreapp3.1\Action.pdb
+C:\Users\joaoclavilho\Desktop\repos\Action\Action\obj\Debug\netcoreapp3.1\Action.csproj.AssemblyReference.cache
+C:\Users\joaoclavilho\Desktop\repos\Action\Action\obj\Debug\netcoreapp3.1\Action.AssemblyInfoInputs.cache
+C:\Users\joaoclavilho\Desktop\repos\Action\Action\obj\Debug\netcoreapp3.1\Action.AssemblyInfo.cs
+C:\Users\joaoclavilho\Desktop\repos\Action\Action\obj\Debug\netcoreapp3.1\Action.csproj.CoreCompileInputs.cache
+C:\Users\joaoclavilho\Desktop\repos\Action\Action\obj\Debug\netcoreapp3.1\Action.dll
+C:\Users\joaoclavilho\Desktop\repos\Action\Action\obj\Debug\netcoreapp3.1\Action.pdb
+C:\Users\joaoclavilho\Desktop\repos\Action\Action\obj\Debug\netcoreapp3.1\Action.genruntimeconfig.cache

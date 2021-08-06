@@ -1,0 +1,13 @@
+C:\Users\joaoclavilho\Desktop\repos\PessoaMaisVelha\PessoaMaisVelha\bin\Debug\netcoreapp3.1\PessoaMaisVelha.exe
+C:\Users\joaoclavilho\Desktop\repos\PessoaMaisVelha\PessoaMaisVelha\bin\Debug\netcoreapp3.1\PessoaMaisVelha.deps.json
+C:\Users\joaoclavilho\Desktop\repos\PessoaMaisVelha\PessoaMaisVelha\bin\Debug\netcoreapp3.1\PessoaMaisVelha.runtimeconfig.json
+C:\Users\joaoclavilho\Desktop\repos\PessoaMaisVelha\PessoaMaisVelha\bin\Debug\netcoreapp3.1\PessoaMaisVelha.runtimeconfig.dev.json
+C:\Users\joaoclavilho\Desktop\repos\PessoaMaisVelha\PessoaMaisVelha\bin\Debug\netcoreapp3.1\PessoaMaisVelha.dll
+C:\Users\joaoclavilho\Desktop\repos\PessoaMaisVelha\PessoaMaisVelha\bin\Debug\netcoreapp3.1\PessoaMaisVelha.pdb
+C:\Users\joaoclavilho\Desktop\repos\PessoaMaisVelha\PessoaMaisVelha\obj\Debug\netcoreapp3.1\PessoaMaisVelha.csproj.AssemblyReference.cache
+C:\Users\joaoclavilho\Desktop\repos\PessoaMaisVelha\PessoaMaisVelha\obj\Debug\netcoreapp3.1\PessoaMaisVelha.AssemblyInfoInputs.cache
+C:\Users\joaoclavilho\Desktop\repos\PessoaMaisVelha\PessoaMaisVelha\obj\Debug\netcoreapp3.1\PessoaMaisVelha.AssemblyInfo.cs
+C:\Users\joaoclavilho\Desktop\repos\PessoaMaisVelha\PessoaMaisVelha\obj\Debug\netcoreapp3.1\PessoaMaisVelha.csproj.CoreCompileInputs.cache
+C:\Users\joaoclavilho\Desktop\repos\PessoaMaisVelha\PessoaMaisVelha\obj\Debug\netcoreapp3.1\PessoaMaisVelha.dll
+C:\Users\joaoclavilho\Desktop\repos\PessoaMaisVelha\PessoaMaisVelha\obj\Debug\netcoreapp3.1\PessoaMaisVelha.pdb
+C:\Users\joaoclavilho\Desktop\repos\PessoaMaisVelha\PessoaMaisVelha\obj\Debug\netcoreapp3.1\PessoaMaisVelha.genruntimeconfig.cache

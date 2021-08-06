@@ -1,0 +1,13 @@
+C:\Users\joaoclavilho\Desktop\repos\FuncSelect\FuncSelect\bin\Debug\netcoreapp3.1\FuncSelect.exe
+C:\Users\joaoclavilho\Desktop\repos\FuncSelect\FuncSelect\bin\Debug\netcoreapp3.1\FuncSelect.deps.json
+C:\Users\joaoclavilho\Desktop\repos\FuncSelect\FuncSelect\bin\Debug\netcoreapp3.1\FuncSelect.runtimeconfig.json
+C:\Users\joaoclavilho\Desktop\repos\FuncSelect\FuncSelect\bin\Debug\netcoreapp3.1\FuncSelect.runtimeconfig.dev.json
+C:\Users\joaoclavilho\Desktop\repos\FuncSelect\FuncSelect\bin\Debug\netcoreapp3.1\FuncSelect.dll
+C:\Users\joaoclavilho\Desktop\repos\FuncSelect\FuncSelect\bin\Debug\netcoreapp3.1\FuncSelect.pdb
+C:\Users\joaoclavilho\Desktop\repos\FuncSelect\FuncSelect\obj\Debug\netcoreapp3.1\FuncSelect.csproj.AssemblyReference.cache
+C:\Users\joaoclavilho\Desktop\repos\FuncSelect\FuncSelect\obj\Debug\netcoreapp3.1\FuncSelect.AssemblyInfoInputs.cache
+C:\Users\joaoclavilho\Desktop\repos\FuncSelect\FuncSelect\obj\Debug\netcoreapp3.1\FuncSelect.AssemblyInfo.cs
+C:\Users\joaoclavilho\Desktop\repos\FuncSelect\FuncSelect\obj\Debug\netcoreapp3.1\FuncSelect.csproj.CoreCompileInputs.cache
+C:\Users\joaoclavilho\Desktop\repos\FuncSelect\FuncSelect\obj\Debug\netcoreapp3.1\FuncSelect.dll
+C:\Users\joaoclavilho\Desktop\repos\FuncSelect\FuncSelect\obj\Debug\netcoreapp3.1\FuncSelect.pdb
+C:\Users\joaoclavilho\Desktop\repos\FuncSelect\FuncSelect\obj\Debug\netcoreapp3.1\FuncSelect.genruntimeconfig.cache

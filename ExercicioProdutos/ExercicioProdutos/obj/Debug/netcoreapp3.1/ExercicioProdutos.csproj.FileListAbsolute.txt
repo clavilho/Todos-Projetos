@@ -1,0 +1,13 @@
+C:\Users\joaoclavilho\Desktop\repos\ExercicioProdutos\ExercicioProdutos\bin\Debug\netcoreapp3.1\ExercicioProdutos.exe
+C:\Users\joaoclavilho\Desktop\repos\ExercicioProdutos\ExercicioProdutos\bin\Debug\netcoreapp3.1\ExercicioProdutos.deps.json
+C:\Users\joaoclavilho\Desktop\repos\ExercicioProdutos\ExercicioProdutos\bin\Debug\netcoreapp3.1\ExercicioProdutos.runtimeconfig.json
+C:\Users\joaoclavilho\Desktop\repos\ExercicioProdutos\ExercicioProdutos\bin\Debug\netcoreapp3.1\ExercicioProdutos.runtimeconfig.dev.json
+C:\Users\joaoclavilho\Desktop\repos\ExercicioProdutos\ExercicioProdutos\bin\Debug\netcoreapp3.1\ExercicioProdutos.dll
+C:\Users\joaoclavilho\Desktop\repos\ExercicioProdutos\ExercicioProdutos\bin\Debug\netcoreapp3.1\ExercicioProdutos.pdb
+C:\Users\joaoclavilho\Desktop\repos\ExercicioProdutos\ExercicioProdutos\obj\Debug\netcoreapp3.1\ExercicioProdutos.csproj.AssemblyReference.cache
+C:\Users\joaoclavilho\Desktop\repos\ExercicioProdutos\ExercicioProdutos\obj\Debug\netcoreapp3.1\ExercicioProdutos.AssemblyInfoInputs.cache
+C:\Users\joaoclavilho\Desktop\repos\ExercicioProdutos\ExercicioProdutos\obj\Debug\netcoreapp3.1\ExercicioProdutos.AssemblyInfo.cs
+C:\Users\joaoclavilho\Desktop\repos\ExercicioProdutos\ExercicioProdutos\obj\Debug\netcoreapp3.1\ExercicioProdutos.csproj.CoreCompileInputs.cache
+C:\Users\joaoclavilho\Desktop\repos\ExercicioProdutos\ExercicioProdutos\obj\Debug\netcoreapp3.1\ExercicioProdutos.dll
+C:\Users\joaoclavilho\Desktop\repos\ExercicioProdutos\ExercicioProdutos\obj\Debug\netcoreapp3.1\ExercicioProdutos.pdb
+C:\Users\joaoclavilho\Desktop\repos\ExercicioProdutos\ExercicioProdutos\obj\Debug\netcoreapp3.1\ExercicioProdutos.genruntimeconfig.cache

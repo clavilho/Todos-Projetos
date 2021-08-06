@@ -1,0 +1,13 @@
+C:\Users\joaoclavilho\Desktop\repos\BancoDoJoão\BancoDoJoão\bin\Debug\netcoreapp3.1\BancoDoJoão.exe
+C:\Users\joaoclavilho\Desktop\repos\BancoDoJoão\BancoDoJoão\bin\Debug\netcoreapp3.1\BancoDoJoão.deps.json
+C:\Users\joaoclavilho\Desktop\repos\BancoDoJoão\BancoDoJoão\bin\Debug\netcoreapp3.1\BancoDoJoão.runtimeconfig.json
+C:\Users\joaoclavilho\Desktop\repos\BancoDoJoão\BancoDoJoão\bin\Debug\netcoreapp3.1\BancoDoJoão.runtimeconfig.dev.json
+C:\Users\joaoclavilho\Desktop\repos\BancoDoJoão\BancoDoJoão\bin\Debug\netcoreapp3.1\BancoDoJoão.dll
+C:\Users\joaoclavilho\Desktop\repos\BancoDoJoão\BancoDoJoão\bin\Debug\netcoreapp3.1\BancoDoJoão.pdb
+C:\Users\joaoclavilho\Desktop\repos\BancoDoJoão\BancoDoJoão\obj\Debug\netcoreapp3.1\BancoDoJoão.csproj.AssemblyReference.cache
+C:\Users\joaoclavilho\Desktop\repos\BancoDoJoão\BancoDoJoão\obj\Debug\netcoreapp3.1\BancoDoJoão.AssemblyInfoInputs.cache
+C:\Users\joaoclavilho\Desktop\repos\BancoDoJoão\BancoDoJoão\obj\Debug\netcoreapp3.1\BancoDoJoão.AssemblyInfo.cs
+C:\Users\joaoclavilho\Desktop\repos\BancoDoJoão\BancoDoJoão\obj\Debug\netcoreapp3.1\BancoDoJoão.csproj.CoreCompileInputs.cache
+C:\Users\joaoclavilho\Desktop\repos\BancoDoJoão\BancoDoJoão\obj\Debug\netcoreapp3.1\BancoDoJoão.dll
+C:\Users\joaoclavilho\Desktop\repos\BancoDoJoão\BancoDoJoão\obj\Debug\netcoreapp3.1\BancoDoJoão.pdb
+C:\Users\joaoclavilho\Desktop\repos\BancoDoJoão\BancoDoJoão\obj\Debug\netcoreapp3.1\BancoDoJoão.genruntimeconfig.cache

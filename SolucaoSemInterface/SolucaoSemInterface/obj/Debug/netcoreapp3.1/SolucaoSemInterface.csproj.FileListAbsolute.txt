@@ -1,0 +1,13 @@
+C:\Users\joaoclavilho\Desktop\repos\SolucaoSemInterface\SolucaoSemInterface\bin\Debug\netcoreapp3.1\SolucaoSemInterface.exe
+C:\Users\joaoclavilho\Desktop\repos\SolucaoSemInterface\SolucaoSemInterface\bin\Debug\netcoreapp3.1\SolucaoSemInterface.deps.json
+C:\Users\joaoclavilho\Desktop\repos\SolucaoSemInterface\SolucaoSemInterface\bin\Debug\netcoreapp3.1\SolucaoSemInterface.runtimeconfig.json
+C:\Users\joaoclavilho\Desktop\repos\SolucaoSemInterface\SolucaoSemInterface\bin\Debug\netcoreapp3.1\SolucaoSemInterface.runtimeconfig.dev.json
+C:\Users\joaoclavilho\Desktop\repos\SolucaoSemInterface\SolucaoSemInterface\bin\Debug\netcoreapp3.1\SolucaoSemInterface.dll
+C:\Users\joaoclavilho\Desktop\repos\SolucaoSemInterface\SolucaoSemInterface\bin\Debug\netcoreapp3.1\SolucaoSemInterface.pdb
+C:\Users\joaoclavilho\Desktop\repos\SolucaoSemInterface\SolucaoSemInterface\obj\Debug\netcoreapp3.1\SolucaoSemInterface.csproj.AssemblyReference.cache
+C:\Users\joaoclavilho\Desktop\repos\SolucaoSemInterface\SolucaoSemInterface\obj\Debug\netcoreapp3.1\SolucaoSemInterface.AssemblyInfoInputs.cache
+C:\Users\joaoclavilho\Desktop\repos\SolucaoSemInterface\SolucaoSemInterface\obj\Debug\netcoreapp3.1\SolucaoSemInterface.AssemblyInfo.cs
+C:\Users\joaoclavilho\Desktop\repos\SolucaoSemInterface\SolucaoSemInterface\obj\Debug\netcoreapp3.1\SolucaoSemInterface.csproj.CoreCompileInputs.cache
+C:\Users\joaoclavilho\Desktop\repos\SolucaoSemInterface\SolucaoSemInterface\obj\Debug\netcoreapp3.1\SolucaoSemInterface.dll
+C:\Users\joaoclavilho\Desktop\repos\SolucaoSemInterface\SolucaoSemInterface\obj\Debug\netcoreapp3.1\SolucaoSemInterface.pdb
+C:\Users\joaoclavilho\Desktop\repos\SolucaoSemInterface\SolucaoSemInterface\obj\Debug\netcoreapp3.1\SolucaoSemInterface.genruntimeconfig.cache

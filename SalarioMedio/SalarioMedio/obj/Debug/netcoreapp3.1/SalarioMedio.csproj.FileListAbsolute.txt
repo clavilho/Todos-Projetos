@@ -1,0 +1,13 @@
+C:\Users\joaoclavilho\Desktop\repos\SalarioMedio\SalarioMedio\bin\Debug\netcoreapp3.1\SalarioMedio.exe
+C:\Users\joaoclavilho\Desktop\repos\SalarioMedio\SalarioMedio\bin\Debug\netcoreapp3.1\SalarioMedio.deps.json
+C:\Users\joaoclavilho\Desktop\repos\SalarioMedio\SalarioMedio\bin\Debug\netcoreapp3.1\SalarioMedio.runtimeconfig.json
+C:\Users\joaoclavilho\Desktop\repos\SalarioMedio\SalarioMedio\bin\Debug\netcoreapp3.1\SalarioMedio.runtimeconfig.dev.json
+C:\Users\joaoclavilho\Desktop\repos\SalarioMedio\SalarioMedio\bin\Debug\netcoreapp3.1\SalarioMedio.dll
+C:\Users\joaoclavilho\Desktop\repos\SalarioMedio\SalarioMedio\bin\Debug\netcoreapp3.1\SalarioMedio.pdb
+C:\Users\joaoclavilho\Desktop\repos\SalarioMedio\SalarioMedio\obj\Debug\netcoreapp3.1\SalarioMedio.csproj.AssemblyReference.cache
+C:\Users\joaoclavilho\Desktop\repos\SalarioMedio\SalarioMedio\obj\Debug\netcoreapp3.1\SalarioMedio.AssemblyInfoInputs.cache
+C:\Users\joaoclavilho\Desktop\repos\SalarioMedio\SalarioMedio\obj\Debug\netcoreapp3.1\SalarioMedio.AssemblyInfo.cs
+C:\Users\joaoclavilho\Desktop\repos\SalarioMedio\SalarioMedio\obj\Debug\netcoreapp3.1\SalarioMedio.csproj.CoreCompileInputs.cache
+C:\Users\joaoclavilho\Desktop\repos\SalarioMedio\SalarioMedio\obj\Debug\netcoreapp3.1\SalarioMedio.dll
+C:\Users\joaoclavilho\Desktop\repos\SalarioMedio\SalarioMedio\obj\Debug\netcoreapp3.1\SalarioMedio.pdb
+C:\Users\joaoclavilho\Desktop\repos\SalarioMedio\SalarioMedio\obj\Debug\netcoreapp3.1\SalarioMedio.genruntimeconfig.cache
